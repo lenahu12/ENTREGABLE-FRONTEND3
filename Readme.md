@@ -6,7 +6,7 @@
    https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
    
  - Para utilizarlo: Ctrl + Shift + i  => Components:
-![Ubicación de Components](https://github.com/Ivanszs/ctd-frontend3-primer-evaluacion/blob/main/reactComponents.PNG?raw=true)
+![Ubicación de Components](https://github.com/Ivanszs/ctd-frontend3-primer-evaluacion/blob/main/ejemplo.PNG?raw=true)
 
 ¡Hola! Llegó el momento de poner a prueba los conocimientos adquiridos. Esta es la oportunidad para validar tu aprendizaje hasta el momento. Se trata de una evaluación entregable, donde tendrás la posibilidad de resolver el trabajo por cuenta propia y entregarlo antes de la fecha límite.
 
